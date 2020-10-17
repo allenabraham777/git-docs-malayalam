@@ -6,17 +6,18 @@
 
 - [git](git.md)
 - [config](git-config.md)
-- help
-- bugreport
+- [help](git-help.md)
+- [bugreport](git-bugreport.md)
 
 ### പ്രൊജക്റ്റ് നിർമിക്കാനും ഡൌൺലോഡ് ചെയ്യുവാനും
 
 - [init](git-init.md)
 - clone
-### ട്രക്കിങ്ങിനു അടിസ്ഥാനമായി ഉപയോഗിക്കുന്ന കമാണ്ടുകൾ
+
+### ട്രാക്കിങ്ങിനു അടിസ്ഥാനമായി ഉപയോഗിക്കുന്ന കമാണ്ടുകൾ
 
 - add
-- status
+- [status](git-status.md)
 - diff
 - commit
 - notes
